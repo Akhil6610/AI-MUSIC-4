@@ -1,0 +1,29 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    color: black;
+}
+.note{
+    font-size: 14px;
+    color: black;
+    background-color: hotpink;
+}
+.note2{
+    font-size: 14px;
+    color: black;
+    background-color: hotpink;
+}
+body{
+    background-image: url("https://wallpapercave.com/wp/RPC3QB9.jpg");
+    background-size: cover;
+}
+.Song_name_button{
+    width: 150px;
+    font-size: 20px;
+    background-color: red;
+    }
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
